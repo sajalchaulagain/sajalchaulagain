@@ -6,7 +6,7 @@ Whether it's building websites, experimenting with IoT systems, editing videos, 
 
 ## 🚀 About Me
 
-🎓 Recent Grade 12 Graduate
+🎓 Grade 12 Graduate
 
 💻 Learning Web Development and Programming
 
