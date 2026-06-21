@@ -12,22 +12,22 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 Name     : Sajal Chaulagain
-Location : Kathmandu, Nepal 🏔️
+Location : Kathmandu, Nepal 
 Education: Grade 12 Graduate & Currently Studing BIT (Bachelor of Information Technology)
 Focus    : coding / Programming
 Interests: AI · Machine Learning · Emerging Technologies · Video Editing
 Learning : JavaScript/React · Python · Java · Git · Modern Dev Tools
 Goal     : Build impactful projects & grow into a skilled software developer
-Powered  : Curiosity · Creativity · Late-night coding sessions ☕
+Powered  : Curiosity · Creativity · Late-night coding sessions 
 ```
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Languages
 
@@ -70,21 +70,21 @@ Powered  : Curiosity · Creativity · Late-night coding sessions ☕
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌍 **IoT Air Quality Monitoring System** | Monitors environmental conditions and displays air quality data using sensors and web technologies | IoT · Web |
-| 🏦 **Bank Account Management System** | Simulates basic banking operations and account management | C++ |
-| 🎮 **Imposter Word Game** | A logic-based word game with guessing and interactive gameplay | JavaScript |
-| 🎁 **Creative Web Projects** | Experimental websites built to improve design and frontend development skills | HTML · CSS · JS |
+|  **IoT Air Quality Monitoring System** | Monitors environmental conditions and displays air quality data using sensors and web technologies | IoT · Web |
+|  **Bank Account Management System** | Simulates basic banking operations and account management | C++ |
+|  **Imposter Word Game** | A logic-based word game with guessing and interactive gameplay | JavaScript |
+|  **Creative Web Projects** | Experimental websites built to improve design and frontend development skills | HTML · CSS · JS |
 
 </div>
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -98,23 +98,23 @@ Powered  : Curiosity · Creativity · Late-night coding sessions ☕
 
 </div>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![Sajal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajalchaulagain&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
-## ⚡ Fun Facts
+##  Fun Facts
 
-- 📷 I enjoy photography and capturing moments
-- 🎬 I love storytelling through video editing
-- 🏔️ Proudly from Nepal
-- 💡 I learn best by building projects
-- 🐛 Sometimes fixing one bug creates three new ones
+-  I enjoy photography and capturing moments
+-  I love storytelling through video editing
+-  Proudly from Nepal
+-  I learn best by building projects
+-  Sometimes fixing one bug creates three new ones
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
